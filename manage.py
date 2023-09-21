@@ -3,7 +3,7 @@
 import os
 import sys
 
-
+# Dummy change main git
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'project.settings')
